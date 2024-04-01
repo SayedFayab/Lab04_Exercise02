@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="program_names">
+    <item>Neural Networks</item>
+    <item>Unsupervised and Reinforcement Learning</item>
+    <item>Business Entrepreneurship</item>
+    <item>Big Data Tools</item>
+    <item>IT Project Management</item>
+    <item>Advanced Database</item>
+    <item>Java Programming</item>
+    <item>Web Application</item>
+    <item>Mobile App Development</item>
+    <item>Software System Design</item>
+</string-array>
+
+<string-array name="program_descriptions">
+    <item>This course covers artificial neural networks and their practical applications. \n
+        Coursework emphasizes fundamental models and algorithms starting with McCulloch-Pitts and Perceptron models, \n
+        Multi-Layer Perceptron (MLP) networks, backpropagation algorithm, activation functions,\n
+        convolutional neural networks, and recurrent neural networks.
+    </item>
+    <item>In the first half of this course, students will be exposed to unsupervised learning concepts,\n
+            examples and algorithms, such as data clustering concepts, k-means clustering, \n
+            the expectation-maximization algorithm and the Gaussian mixture models, \n
+            principal components analysis, independent component analysis and factor analysis.
+    </item>
+    <item>Software Engineering Technology not only has unlimited potential for transforming the way organizations operate and their decision-making capabilities but,\n
+            in addition, it provides opportunities for innovation and entrepreneurship. \n
+            In the latter sense, new ideas are conceived, developed and deployed for the advancement of society.
+    </item>
+    <item>In this course, students will be introduced to large scale learning: distributed learning.\n
+            The concepts of distributed storage systems and parallel processing will be discussed. \n
+            Storage types for big data (NoSQL) and big data tools (Hadoop eco system, YARN and Apache Spark) will be explained and students will gain hands-on experience by applying the big data tools in real world applications.
+    </item>
+    <item>Students are taught the concepts and basic functions of Project Management, and the integration of these concepts and functions into a coherent project management system.\n
+            Also, role of the project manager and the project management team in implementing and controlling projects.
+    </item>
+    <item>This course is intended to expand the student’s knowledge of business databases using data RDBMS and NoSQL driven systems.\n
+            The course introduces students to the steps required to install and configure a database server and development system.
+    </item>
+    <item>Building on fundamentals of Object-Oriented programming, this course covers Component-based Application Development and Database Connectivity using the Java programming language.\n
+            Coursework emphasizes how to create complex GUI applications with Java programming language, interacting with the databases using JDBC, and Java collections framework.
+    </item>
+    <item> In this course, students will learn how to design, code, and test a full-stack web application.\n
+        \nThe major topics covered include:\n
+        1. Frontend and backend development\n
+        2. Connecting to various databases or data stores \n
+        4. Securing and deploying complex web applications on production servers.\n
+    </item>
+    <item>In this mobile apps course, students will gain hands-on experience in developing and deploying mobile applications on the Android platform. \n
+            Coursework emphasizes how to create advanced Graphical User Interfaces (GUIs), handle events,\n
+            access remote services, store and retrieve data on the device, display maps, and use other Android APIs
+    </item>
+    <item>This project-based course emphasizes Software Engineering design derived from a set of Requirements Specifications. \n
+            Students are introduced to software engineering design principles, concepts and tasks.\n
+            Design principles are applied to software architecture, software interfaces, software components, database and user interfaces.
+    </item>
+</string-array>
+
+</resources>
